@@ -1,0 +1,5 @@
+Attributions for Radium Core graphical assets:
+
+Radium logo, Radium splash screen, and SmartChain splash screen: CRZ https://bitcointalk.org/index.php?action=profile;u=315151
+
+Ion Cloud logo: Osmiumcoin https://bitcointalk.org/index.php?action=profile;u=559783

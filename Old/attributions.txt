@@ -1,0 +1,15 @@
+Attributions for Radium Core graphical assets:
+
+Radium logo: Mike Geister https://twitter.com/mikegeister
+
+Radium banner: Mike Geister https://twitter.com/mikegeister
+
+Block pioneers: http://blockpioneers.info/
+
+SmartChain Verified: Tim Mesker @tm2013
+
+SmartChainSplash1.png: Osmiumcoin https://bitcointalk.org/index.php?action=profile;u=559783
+
+ANN_Headers: Osmiumcoin https://bitcointalk.org/index.php?action=profile;u=559783
+
+The Apple logo, Microsoft logo and Github logo are registered trademarks of Apple, Inc., Microsoft, Inc., and Github Inc. respectively.
